@@ -1,0 +1,2 @@
+DSN = 'DSN'
+TOKEN = 'TOKEN'
